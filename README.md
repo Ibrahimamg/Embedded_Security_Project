@@ -1,6 +1,6 @@
 # Attack the Vault
  
-Attaque par canal auxiliaire (Simple Power Analysis) sur un coffre à mot de passe, avec une
+Attaque par canal auxiliaire sur un coffre à mot de passe, avec une
 ChipWhisperer-Nano, puis contre-mesure à temps constant. La cible est un Arduino Uno (ATmega328P).
  
 ## Organisation du dépôt
